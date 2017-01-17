@@ -6389,10 +6389,10 @@
       (xy 2.31305 2.074795) (xy 2.343981 2.028498) (xy 2.389401 2.005649) (xy 2.438174 2.00992)) (layer F.SilkS) (width 0.01))
   )
 
-  (module GaudiLabsFootPrints:PLUG3_5_SwitchCraft_2B (layer F.Cu) (tedit 587343AB) (tstamp 57D9B532)
+  (module GaudiLabsFootPrints:PLUG3_5_SwitchCraft_2B (layer F.Cu) (tedit 58734198) (tstamp 57D9B532)
     (at 84.92 159.98 180)
     (path /57100D3A)
-    (fp_text reference Y7 (at 4.064 6.584 180) (layer F.SilkS)
+    (fp_text reference Y7 (at -4.318 10.521 180) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value PLUG_3_5_SMD (at -3.302 -4.572 180) (layer F.Fab)
