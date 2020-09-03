@@ -5,7 +5,7 @@ Schematics, printed circuit board (PCB) design, bill of materials (BOM) for the 
 For software see separate git repository.
 
 ### Don't click on the files!
-Click on the "Download ZIP" Button to the right or [Click here](https://github.com/GaudiLabs/OpenTheremin_Shield/archive/master.zip) 
+Click on the "Download ZIP" Button to the right or [Click here](https://github.com/GaudiLabs/OpenTheremin_V3_Shield/archive/master.zip) 
 Then unpack the archive.
 
 ### Open Source Theremin based on the Arduino Platform
